@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f83d710eebbbca438a7ce04015996df
+timeCreated: 1510948499
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - walkCursor: {fileID: 2800000, guid: 06214809d73bb76429121a2c6d3205a1, type: 3}
+  - unknownCursor: {fileID: 2800000, guid: 085aac4aec880234f895b45b5b0cc9b9, type: 3}
+  - targetCursor: {fileID: 2800000, guid: a47d075038084794f8d3cba6de056648, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
