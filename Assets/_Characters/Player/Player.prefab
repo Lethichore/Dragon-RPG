@@ -715,7 +715,7 @@ MonoBehaviour:
   enemyLayer: 9
   maxHealthPoints: 200
   damagePerHit: 10
-  weaponInUse: {fileID: 11400000, guid: 4355bc98bab21364ab39f82b6863923e, type: 2}
+  weaponInUse: {fileID: 11400000, guid: a06d5d4974fb24043a661ba4ff28c9b0, type: 2}
   animatorOverrideController: {fileID: 22100000, guid: 20b880348b7b17843a0de5f9a20dbc3b,
     type: 2}
 --- !u!114 &114036006159766368
