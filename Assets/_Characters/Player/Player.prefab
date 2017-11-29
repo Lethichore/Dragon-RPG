@@ -713,8 +713,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyLayer: 9
-  maxHealthPoints: 200
-  damagePerHit: 10
+  maxHealthPoints: 300
+  damagePerHit: 20
   weaponInUse: {fileID: 11400000, guid: a06d5d4974fb24043a661ba4ff28c9b0, type: 2}
   animatorOverrideController: {fileID: 22100000, guid: 20b880348b7b17843a0de5f9a20dbc3b,
     type: 2}
